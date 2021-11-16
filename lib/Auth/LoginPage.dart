@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
                       enabledBorder: OutlineInputBorder(
                           borderSide: BorderSide(color: Colors.white),
                           borderRadius: BorderRadius.all(Radius.circular(5))),
-                      hintText: "User name",
+                      hintText: "User Name",
                     ),
                   ),
                   SizedBox(
